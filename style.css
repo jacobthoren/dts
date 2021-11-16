@@ -80,7 +80,7 @@ Denna information finns upprepad på väldigt många ställen i denna css kod, m
 
 .container{
   background-color: black;
-  height: 100px;
+  height: 80%;
 }
 
 .container2{
@@ -159,7 +159,7 @@ Jag använde rgba för att jag villa att texten inte skulle vara transparent, me
 
 .navbarContent{
  font-family:'Orbitron', sans-serif;
- font-size: 27px;
+ font-size: 150%;
  z-index: 1;
  color: red;
  margin: auto;
@@ -176,3 +176,9 @@ Jag använde rgba för att jag villa att texten inte skulle vara transparent, me
  display: inline;
  color: red;
 }
+
+@media only screen and (max-width: 450px){
+  *{
+  font-size: 1vw;
+  }  
+  }
