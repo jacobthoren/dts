@@ -99,7 +99,7 @@ Jag använde rgba för att jag villa att texten inte skulle vara transparent, me
  font-family:'Orbitron', sans-serif;
  color: red;
  z-index: 3;
- font-size: 35px;
+ font-size: 30px;
  margin-left: 45px;
 }
 
@@ -107,7 +107,7 @@ Jag använde rgba för att jag villa att texten inte skulle vara transparent, me
  font-family:'Orbitron', sans-serif;
  color: red;
  z-index: 3;
- font-size: 40px;
+ font-size: 30px;
  text-align: center;
  margin-bottom: 20px;
 }
@@ -116,7 +116,7 @@ Jag använde rgba för att jag villa att texten inte skulle vara transparent, me
  font-family:'Orbitron', sans-serif;
  color: red;
  z-index: 3;
- font-size: 40px;
+ font-size: 35px;
  text-align: center;
 }
 
