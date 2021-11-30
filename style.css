@@ -159,11 +159,12 @@ Jag använde rgba för att jag villa att texten inte skulle vara transparent, me
 
 .navbarContent{
  font-family:'Orbitron', sans-serif;
- font-size: 150%;
+ font-size: 2vw;
  z-index: 1;
  color: red;
  margin: auto;
  text-decoration: none;
+ text-align: center;
 }
 
 .f1store5{
